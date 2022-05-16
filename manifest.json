@@ -1,0 +1,8 @@
+// manifest.json
+{
+    "name" : "",
+    "short_name" : "", 
+    "description": "",
+    "start_url": "/",
+    "display": "fullscreen"  
+  }
