@@ -20,6 +20,8 @@ input {
 }
 
 /* Swiper Styling */
+/* https://unpkg.com/swiper@8/swiper-bundle.min.css */
+
 .swiper {
   background: red;
 }
