@@ -1,8 +1,8 @@
 /*** Variables ***/
 // API Key
-const API_KEY = 'vRgpxNRNKxyIlc1sk9lEifd6kDJZDK57';
+const API_KEY = 'PeHq7nutMojzQ3zpHHf9eTtroz6ivN2j';
 // limit
-const limit = 25; 
+const limit = 10; 
 // Get `input`
 const inputField = document.querySelector('.search-input');
 // Initialize or Default search query

@@ -1,5 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
+  background-color: #1e1e1e;
 }
 
 input {
@@ -23,9 +24,18 @@ input {
 /* https://unpkg.com/swiper@8/swiper-bundle.min.css */
 
 .swiper {
-  background: red;
+  background: #1e1e1e;
 }
 
 .swiper-wrapper {
   background: green;
+}
+
+.search-input {
+  background-color: darkslategray;
+}
+
+input.search-input {
+  /* the blinking line for text */
+  color: beige;
 }
